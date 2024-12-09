@@ -2,4 +2,5 @@ body{
     background-color: aquamarine;
     color: brown;
     border: red;
+    nav-right: auto;
 }
