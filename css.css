@@ -1,6 +1,12 @@
 body{
     background-color: aquamarine;
     color: brown;
-    border: red;
-    nav-right: auto;
 }
+div {
+    color: chocolate;
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+  }
